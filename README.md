@@ -150,8 +150,8 @@ exp.
 
 
 ## 作例
-[USB赤外線リモコン ADVANCE を使ってみます (FRONT)](http://wisteriahill.sakura.ne.jp/CMS/WordPress/2018/09/25/usb-ir-remote-controller-advance-usage/)  
-
+[「Front」様 / 「USB赤外線リモコン ADVANCE を使ってみます](http://wisteriahill.sakura.ne.jp/CMS/WordPress/2018/09/25/usb-ir-remote-controller-advance-usage/)  
+[「ラズベリーパイ入門」様 / 「ラズベリーパイとUSB赤外線リモコンADVANCEで照明を自在に制御する」](https://raspi.maruzonet.com/archives/387) 
 <!--
 [BTO公式]()  
 [Twitter作例1]()  
